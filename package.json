@@ -38,6 +38,7 @@
     "fast-deep-equal": "*",
     "git-last-commit": "*",
     "js-yaml": "*",
+    "jsonwebtoken": "^8.5.1",
     "mkdir-recursive": "*",
     "moment": "*",
     "mqtt": "*",
